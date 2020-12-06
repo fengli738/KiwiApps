@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-kiwiapps-dev-161545-authRole",
+            "UnauthRoleArn": "arn:aws:iam::885325324155:role/amplify-kiwiapps-dev-161545-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::885325324155:role/amplify-kiwiapps-dev-161545-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-kiwiapps-dev-161545-deployment",
+            "UnauthRoleName": "amplify-kiwiapps-dev-161545-unauthRole",
+            "StackName": "amplify-kiwiapps-dev-161545",
+            "StackId": "arn:aws:cloudformation:us-east-1:885325324155:stack/amplify-kiwiapps-dev-161545/98bbaa80-3810-11eb-aede-1230a5204572",
+            "AmplifyAppId": "d3h1t6kbyxrfwk"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3h1t6kbyxrfwk",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

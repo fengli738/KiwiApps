@@ -1,0 +1,15 @@
+.logo{
+    max-width: 200px;
+}
+.bg-watercolor{
+    background-color: #e6ffb3;
+}
+bigtitle{
+    height: 400px;
+    width: 800px;
+    background: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
